@@ -1,0 +1,9 @@
+﻿  tsTransportStream.cpp
+  TS_parser.cpp
+  xPES_Assembler.cpp
+C:\Rozwoj_osobisty\Projects\Telekomunikacja_Multimedialna\TS_parser\TS_parser\xPES_Assembler.cpp(26,58): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Rozwoj_osobisty\Projects\Telekomunikacja_Multimedialna\TS_parser\TS_parser\xPES_Assembler.cpp(35,38): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  xPES_PacketHeader.cpp
+  xTS_AdaptationField.cpp
+  Generowanie kodu...
+  TS_parser.vcxproj -> C:\Rozwoj_osobisty\Projects\Telekomunikacja_Multimedialna\TS_parser\Debug\TS_parser.exe
